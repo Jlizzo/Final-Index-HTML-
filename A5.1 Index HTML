@@ -1,0 +1,40 @@
+
+<!--my name is Jody and I almost forgot this comment-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body style="background-color:lime;">
+    <header>
+        <h1></h1>
+    </header>
+    
+    <nav>
+        <h2 style="color: black; font-size: 20px; font-family: Britannic; text-align: center;">
+            <nav>
+                <a href="./Home.html">Home</a><br>
+                <a href="./Index.htm">Index</a><br>
+                <a href="./Boards.html">Boards</a><br>
+                <a href="./DoubleCraps.html">Craps or Doubles Game</a><br>
+                <a href="./palindromeStrings.htm">Palindromes</a><br>
+                <a href="./toadSound.htm">Secret Message</a><br>
+                <a href="./000.htm">Moving Meme</a><br> 
+            </nav>
+        </h2>
+    </nav>
+<h1 style="background-color:#ff33cc; text-align: center;">This is My First Exposure to Coding...Ever</h1>
+<p style="font-family:chiller; font-size:60px; text-align: center;">I have no idea what I'm doing and it's awesome!
+<br>
+
+<img id="memeimage" style="align-items: center" src="learntocodenerd.jpg" title="Visual Analogy of Binary" alt="Visual Analogy of Binary">
+</p>
+
+<footer style="color: black; font-size: 15px; font-family: Britannic; text-align: center;">
+    Jody Willems<br> 
+    University of Advancing Technology <br>
+    2625 W Baseline Rd <br> 
+    Tempe, AZ 85283
+</footer>
+</body>
+</html>
